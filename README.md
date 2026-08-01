@@ -82,7 +82,7 @@ README.md      → this file
 
 ## Links
 
-- Full case study write-up: [ortensa-adhamidhi.github.io/lab-iq.html](#)
+- Full case study write-up: [ortensa-adhamidhi.github.io/labiq.html](#)
 - Portfolio: [ortensa-adhamidhi.github.io](#)
 
 ---
