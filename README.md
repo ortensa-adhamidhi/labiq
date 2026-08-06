@@ -81,8 +81,8 @@ README.md      → this file
 
 ## Links
 
-- Full case study write-up: [ortensa-adhamidhi.github.io/labiq.html](#)
-- Portfolio: [ortensa-adhamidhi.github.io](#)
+- Full case study write-up: [[ortensa-adhamidhi.github.io/labiq.html](https://ortensa-adhamidhi.github.io/portfolio/labiq.html)](#)
+- Portfolio: [[ortensa-adhamidhi.github.io](https://ortensa-adhamidhi.github.io/portfolio/index.html)](#)
 
 ---
 
